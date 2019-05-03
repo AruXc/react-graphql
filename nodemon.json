@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "aruxc",
+    "MONGO_PASSWORD": "A13fR3vnthpQpHYb",
+    "MONGO_DB": "graphql-practice"
+  }
+}
